@@ -1,0 +1,6 @@
+Git clone - Clona um repositório em um diretório recém-criado, cria ramificações de rastreamento remoto para cada ramo no repositório clonado (visível usando), 
+e cria e verifica um ramo inicial que é bifurcado do ramo atualmente ativo do repositório clonado
+
+Git Pull - Incorpora alterações de um repositório remoto no ramo atual. Em seu modo padrão, é abreviação para seguido por "git pull" "git fetch" "git merge FETCH_HEAD"
+
+Git Push - Atualiza árbitros remotos usando árbitros locais, enquanto envia objetos necessários para completar os árbitros indicados.
